@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arıf Can</h1>
+<h1 align="center">Hi 👋, I'm Arif Can</h1>
 <h3 align="center">I'm studying information systems engineering at Kocaeli University.</h3>
 
 - 📫 How to reach me **arifcngk@gmail.com**
